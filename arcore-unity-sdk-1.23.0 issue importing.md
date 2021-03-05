@@ -64,10 +64,10 @@ Steps
          }
 
    ```
-6. Finally import the ARCORE pckage and also enable the ARCore Supported under `Project setting` -> `Player` -> `XR Settting` 
+6. Finally import the ARCORE package and also enable the ARCore Supported under `Project setting` -> `Player` -> `XR Settting` 
    ![image](https://user-images.githubusercontent.com/43271546/110153440-10682c00-7e09-11eb-9eca-5c1e1b32e10c.png)
 
-For other versions you can visit : [Link](https://developers.google.com/ar/develop/unity/android-11-build)
+For other versions of Unity you can visit : [Link](https://developers.google.com/ar/develop/unity/android-11-build)
 
 ### Contributed by
 
